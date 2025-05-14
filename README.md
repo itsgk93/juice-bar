@@ -37,22 +37,3 @@ A modern, mobile-first landing page for a fresh juice bar business. Optimized fo
 4. **Deploy:**
    - Upload `/dist` to Netlify, Vercel, or static host.
 
-## Customization & Content
-- Replace placeholder images and text in `src/components/` as needed.
-- Update menu items, testimonials, contacts in respective components.
-- To connect forms to Formspree, update the form handlers in `NewsletterSignup.tsx` and `ContactSection.tsx`.
-
-## Accessibility & SEO
-- All images have alt text
-- Semantic HTML structure
-- Keyboard accessible forms/buttons, focus rings
-- SEO meta tags in `index.html`
-
-## Credits
-- Juice and fruit images: [Unsplash](https://unsplash.com/) (royalty free)
-- Avatars: [randomuser.me](https://randomuser.me/)
-- Icons: [react-icons](https://react-icons.github.io/react-icons/)
-
-## License
-MIT
-# juice-bar
